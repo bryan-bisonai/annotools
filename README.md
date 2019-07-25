@@ -21,3 +21,7 @@
 
 ## How to Build a React Based App with Electron
 - [blog](https://getstream.io/blog/takeaways-on-building-a-react-based-app-with-electron/?source=post_page---------------------------)
+
+## 7/26 meeting 
+- UI Sketch: [Google Drawings](https://docs.google.com/drawings/d/1KkCzKN6jT8NHHkOq3VZswfsIzDivobHvlzbnXu4BrcU/edit?usp=sharing)
+- VoTT Interfaces: [Google Drawings](https://docs.google.com/drawings/d/1aJsNGmmIwkGiVitP9jOiXcGQAxFYkUMAsLC77S8G9DA/edit?usp=sharing)
