@@ -8,6 +8,9 @@
 - [ ] Delete 
 - [ ] Modification
 
+## Canvas Libraries for JS
+- Konva: https://konvajs.org/
+
 ## TypeScript
 
 ## React
