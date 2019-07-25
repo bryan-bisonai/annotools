@@ -10,6 +10,7 @@
 
 ## Canvas Libraries for JS
 - Konva: https://konvajs.org/
+- Leaflet (interactive map tool): https://leafletjs.com/
 
 ## TypeScript
 
